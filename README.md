@@ -1,0 +1,1 @@
+# How-to-Get-the-Power-of-Test-in-Hypothesis-Testing-with-Binomial-Distribution
